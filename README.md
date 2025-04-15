@@ -2,6 +2,8 @@
 
 A fully standalone and optimized Discord Rich Presence script for **FiveM**, with automatic framework detection and compatibility with **fake players (FiveMUP)** systems.
 
+<img width="474" alt="image" src="https://github.com/user-attachments/assets/ff4313a7-44a5-4107-bde1-8c884b930eb1" />
+
 ## ✅ Features
 
 - 🔁 **Dynamic player count** (uses `GetNumPlayerIndices()` from the server)
