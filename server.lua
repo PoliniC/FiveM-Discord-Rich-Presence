@@ -1,4 +1,8 @@
+-- FiveMUP Community: https://discord.gg/fup & https://fivemup.io
+
 local UPDATE_INTERVAL = 15000
+
+print("^3[discord_presence]^0 Enhance your player count visibility with ^5fake players^0! Visit: ^4https://fivemup.io^0")
 
 local Framework = nil
 local getRPName = function(src)
