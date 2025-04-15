@@ -14,7 +14,7 @@ A fully standalone and optimized Discord Rich Presence script for **FiveM**, wit
 - 🖼️ **Large & small icons support** (Rich Presence assets)
 - 🔘 **Two clickable buttons** (Discord, Tebex, etc.)
 - ⚙️ Fully configurable via `config.lua`
-- 🌐 **Supports fake player systems (FiveMUP)** - accurate player count
+- 🌐 **Supports fake player systems (https://fivemup.io)** - accurate player count
 
 ## 🧠 Framework Detection
 
